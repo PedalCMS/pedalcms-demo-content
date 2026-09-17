@@ -1,5 +1,5 @@
 /*
-  Access-Control-Allow-Origin: https://playground.wordpress.net/
+  Access-Control-Allow-Origin: https://playground.wordpress.net/*
   Access-Control-Allow-Methods: GET
   Access-Control-Allow-Headers: Content-Type, x-requested-with
   Access-Control-Max-Age: 86400
