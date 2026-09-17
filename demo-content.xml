@@ -512,7 +512,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/student-center.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/student-center.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/11/student-center.webp]]></wp:meta_value>
@@ -549,7 +549,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-01.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-01.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/11/avatar-01.webp]]></wp:meta_value>
@@ -583,7 +583,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-08.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-08.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/11/avatar-08.webp]]></wp:meta_value>
@@ -617,7 +617,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-09.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-09.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/11/avatar-09.webp]]></wp:meta_value>
@@ -651,7 +651,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-11.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-11.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/11/avatar-11.webp]]></wp:meta_value>
@@ -685,7 +685,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-12.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-12.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/11/avatar-12.webp]]></wp:meta_value>
@@ -719,7 +719,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-13.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-13.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/11/avatar-13.webp]]></wp:meta_value>
@@ -753,7 +753,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-14.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-14.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/11/avatar-14.webp]]></wp:meta_value>
@@ -787,7 +787,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-15.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-15.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/11/avatar-15.webp]]></wp:meta_value>
@@ -821,7 +821,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-16.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-16.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/11/avatar-16.webp]]></wp:meta_value>
@@ -854,7 +854,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-10.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-10.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/12/avatar-10.webp]]></wp:meta_value>
@@ -895,7 +895,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-07.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-07.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/12/avatar-07.webp]]></wp:meta_value>
@@ -936,7 +936,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-06.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-06.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/12/avatar-06.webp]]></wp:meta_value>
@@ -973,7 +973,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-02.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-02.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/12/avatar-02.webp]]></wp:meta_value>
@@ -1010,7 +1010,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-03.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-03.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/12/avatar-03.webp]]></wp:meta_value>
@@ -1051,7 +1051,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-04.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-04.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/12/avatar-04.webp]]></wp:meta_value>
@@ -1092,7 +1092,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-17.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-17.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/12/avatar-17.webp]]></wp:meta_value>
@@ -1133,7 +1133,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/avatar-05.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/avatar-05.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/12/avatar-05.webp]]></wp:meta_value>
@@ -1174,7 +1174,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/students-in-class.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/students-in-class.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2021/12/students-in-class.webp]]></wp:meta_value>
@@ -1212,7 +1212,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/study-group-scaled.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/study-group-scaled.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2022/08/study-group-scaled.webp]]></wp:meta_value>
@@ -1246,7 +1246,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/smiling-asian-man-works-at-coffeebar-scaled.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/smiling-asian-man-works-at-coffeebar-scaled.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2022/08/smiling-asian-man-works-at-coffeebar-scaled.webp]]></wp:meta_value>
@@ -1280,7 +1280,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/open-office-woman-smiling.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/open-office-woman-smiling.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2022/08/open-office-woman-smiling.webp]]></wp:meta_value>
@@ -1314,7 +1314,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/man-working-at-desk-looking-out-window.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/man-working-at-desk-looking-out-window.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2022/08/man-working-at-desk-looking-out-window.webp]]></wp:meta_value>
@@ -1348,7 +1348,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/woman-drinking-coffee-at-laptop.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/woman-drinking-coffee-at-laptop.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2019/07/woman-drinking-coffee-at-laptop.webp]]></wp:meta_value>
@@ -1382,7 +1382,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/redhead-woman-software-engineering.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/redhead-woman-software-engineering.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2022/08/redhead-woman-software-engineering.webp]]></wp:meta_value>
@@ -1415,7 +1415,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/library.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/library.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2022/08/library.webp]]></wp:meta_value>
@@ -1452,7 +1452,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/instructor-leading-class.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/instructor-leading-class.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2022/08/instructor-leading-class.webp]]></wp:meta_value>
@@ -1687,7 +1687,7 @@ content. -->
 			<pubDate>Thu, 31 Oct 2024 14:51:56 +0000</pubDate>
 			<dc:creator><![CDATA[teampedal]]></dc:creator>
 			<guid isPermaLink="false">
-				https://pedalcms.com/demo-content/assets/img/modern-campus-building.webp</guid>
+				https://demo-content.pedalcms.com/assets/img/modern-campus-building.webp</guid>
 			<description></description>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1705,7 +1705,7 @@ content. -->
 			<wp:post_type><![CDATA[attachment]]></wp:post_type>
 			<wp:post_password><![CDATA[]]></wp:post_password>
 			<wp:is_sticky>0</wp:is_sticky>
-			<wp:attachment_url><![CDATA[https://pedalcms.com/demo-content/assets/img/modern-campus-building-scaled.webp]]></wp:attachment_url>
+			<wp:attachment_url><![CDATA[https://demo-content.pedalcms.com/assets/img/modern-campus-building-scaled.webp]]></wp:attachment_url>
 			<wp:postmeta>
 				<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 				<wp:meta_value><![CDATA[2024/10/modern-campus-building-scaled.webp]]></wp:meta_value>
@@ -1962,8 +1962,8 @@ content. -->
 			<dc:creator><![CDATA[teampedal]]></dc:creator>
 			<guid isPermaLink="false">https://playground.wordpress.net/?page_id=2</guid>
 			<description></description>
-			<content:encoded><![CDATA[<!-- wp:cover {"url":"https://pedalcms.com/demo-content/assets/img/modern-campus-building-scaled.webp","id":108492,"dimRatio":70,"overlayColor":"ast-global-color-8","isUserOverlayColor":true,"minHeight":600,"contentPosition":"bottom left","align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained","contentSize":"1200px"}} -->
-<div class="wp-block-cover alignfull has-custom-content-position is-position-bottom-left" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);min-height:600px"><img class="wp-block-cover__image-background wp-image-108492" alt="" src="https://pedalcms.com/demo-content/assets/img/modern-campus-building-scaled.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-ast-global-color-8-background-color has-background-dim-70 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"0"}}}} -->
+			<content:encoded><![CDATA[<!-- wp:cover {"url":"https://demo-content.pedalcms.com/assets/img/modern-campus-building-scaled.webp","id":108492,"dimRatio":70,"overlayColor":"ast-global-color-8","isUserOverlayColor":true,"minHeight":600,"contentPosition":"bottom left","align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-cover alignfull has-custom-content-position is-position-bottom-left" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);min-height:600px"><img class="wp-block-cover__image-background wp-image-108492" alt="" src="https://demo-content.pedalcms.com/assets/img/modern-campus-building-scaled.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-ast-global-color-8-background-color has-background-dim-70 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"0"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"width":"50%","style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-column" style="padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50);flex-basis:50%"><!-- wp:heading {"level":1,"style":{"typography":{"fontStyle":"normal","fontWeight":"800"}},"textColor":"white"} -->
 <h1 class="wp-block-heading has-white-color has-text-color" style="font-style:normal;font-weight:800">Rethink what's <br>possible at  <br>Modern U!</h1>
@@ -2089,7 +2089,7 @@ color: #117FA7;
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":108337,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://pedalcms.com/demo-content/assets/img/redhead-woman-software-engineering.webp" alt="Redhead woman developing software at her desk" class="wp-image-108337"/></figure>
+<figure class="wp-block-image size-large"><img src="https://demo-content.pedalcms.com/assets/img/redhead-woman-software-engineering.webp" alt="Redhead woman developing software at her desk" class="wp-image-108337"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"800"}},"fontSize":"medium"} -->
@@ -2107,7 +2107,7 @@ color: #117FA7;
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":108329,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://pedalcms.com/demo-content/assets/img/woman-drinking-coffee-at-laptop.webp" alt="Young woman sitting at a table with her laptop on it, holding her phone and a coffee cup, looking at the screen" class="wp-image-108329"/></figure>
+<figure class="wp-block-image size-large"><img src="https://demo-content.pedalcms.com/assets/img/woman-drinking-coffee-at-laptop.webp" alt="Young woman sitting at a table with her laptop on it, holding her phone and a coffee cup, looking at the screen" class="wp-image-108329"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"800"}},"fontSize":"medium"} -->
@@ -2125,7 +2125,7 @@ color: #117FA7;
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":108304,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://pedalcms.com/demo-content/assets/img/study-group.webp" alt="A group of people sitting around a shared desk or table in a co-working space, actively working on laptops and computers" class="wp-image-108304"/></figure>
+<figure class="wp-block-image size-large"><img src="https://demo-content.pedalcms.com/assets/img/study-group.webp" alt="A group of people sitting around a shared desk or table in a co-working space, actively working on laptops and computers" class="wp-image-108304"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"800"}},"fontSize":"medium"} -->
@@ -2154,7 +2154,7 @@ color: #117FA7;
 <!-- wp:group {"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"},"width":"4px"},"color":{"background":"#f0f5fa42"},"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}},"borderColor":"ast-global-color-5","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-ast-global-color-5-border-color has-background" style="border-width:4px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px;background-color:#f0f5fa42;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--50)">
 <!-- wp:media-text {"align":"","mediaId":108307,"mediaLink":"https://playground.wordpress.net/pexels-mentatdgt-1125028-2/","linkDestination":"none","mediaType":"image","mediaWidth":45,"mediaSizeSlug":"large","isStackedOnMobile":true,"className":"alignnone is-stacked-on-mobile"} -->
-<div class="wp-block-media-text alignnone is-stacked-on-mobile" style="grid-template-columns:45% auto"><figure class="wp-block-media-text__media"><img src="https://pedalcms.com/demo-content/assets/img/smiling-asian-man-works-at-coffeebar.webp" alt="Smiling man with glasses and a red t-shirt using a laptop at a café counter next to a mug." class="wp-image-108307 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-3"}}}},"textColor":"ast-global-color-3"} -->
+<div class="wp-block-media-text alignnone is-stacked-on-mobile" style="grid-template-columns:45% auto"><figure class="wp-block-media-text__media"><img src="https://demo-content.pedalcms.com/assets/img/smiling-asian-man-works-at-coffeebar.webp" alt="Smiling man with glasses and a red t-shirt using a laptop at a café counter next to a mug." class="wp-image-108307 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|ast-global-color-3"}}}},"textColor":"ast-global-color-3"} -->
 <h2 class="wp-block-heading has-ast-global-color-3-color has-text-color has-link-color"><strong>Undergraduate Admissions</strong></h2>
 <!-- /wp:heading -->
 
